@@ -4,7 +4,7 @@
             "name": "Start tailwind server",
             "type": "node-terminal",
             "request": "launch",
-            "command": "npx tailwindcss -i src/css/styles.css -o src/css/tailwind.css --watch"
+            "command": "npx tailwindcss -i css/styles.css -o css/tailwind.css --watch"
         }
     ]
 }
