@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Start tailwind server",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "npx tailwindcss -i src/css/styles.css -o src/css/tailwind.css --watch"
+        }
+    ]
+}
