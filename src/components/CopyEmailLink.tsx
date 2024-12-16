@@ -7,9 +7,6 @@ interface ClickableEmailButtonProps {
     email: string
 }
 
-interface Clickable {
-    description: string
-}
 
 
 const CopyEmailLink = ({email}: ClickableEmailButtonProps) => {
