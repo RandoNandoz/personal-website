@@ -1,5 +1,5 @@
 import './AboutMe.css'
-import {Card, CardHeader} from "@fluentui/react-components";
+import {Body1, Card, CardHeader, Link} from "@fluentui/react-components";
 import MyPictureURL from '../assets/mypicture.png'
 
 
@@ -14,10 +14,28 @@ const AboutMe = () => {
                             <em>Second year CS @UBC, Power Platform Developer at Teck Resources, CPSC 210 TA</em>
                         }
             />
-            <p>
-                Hi, I'm Randy, I'm in my second of computer science at UBC's beautiful Vancouver campus. I hope to minor
-                in mathematics. More stuff will be here soon I promise.
-            </p>
+            <Body1>
+                Hi, I'm Randy, I'm in my second year of computer science, minoring in mathematics at UBC's beautiful
+                Vancouver campus. I hope I can get into the Honours Software Engineering track for computer science at
+                UBC.
+
+                <br/><br/>
+
+                Currently, I'm on co-op working at <Link href={"https://www.teck.com/"}>Teck Resources</Link> in their
+                Projects
+                Group as a Power Platform Developer. It's a fantastic mix of business analyst and software developer.
+
+                <br/><br/>
+
+                I return to school (or maybe another, different job) in May 2025.
+
+                <br/><br/>
+
+                On the side, I also am a teaching assistant at UBC's Department of Computer Science for CPSC 210, a
+                second year software engineering course which teaches object-oriented design in Java. Incredibly fun to
+                work with students and carry my passion for computer science! In the summer, I might switch courses and
+                help teach CPSC 213, a second-semester computer systems course.
+            </Body1>
         </Card>
     )
 }
