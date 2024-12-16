@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 10px;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    gap: 10px;
+}
+
+.linkContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 10px
+}
