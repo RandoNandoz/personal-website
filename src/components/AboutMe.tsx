@@ -15,7 +15,7 @@ const AboutMe = () => {
                         }
             />
             <Body1>
-                Hi, I'm Randy, I'm in my second year of computer science, minoring in mathematics at UBC's beautiful
+                Hi, I'm Randy, I just wrapped up my second year of computer science, minoring in mathematics at UBC's beautiful
                 Vancouver campus.
 
                 <br/><br/>
