@@ -16,8 +16,7 @@ const AboutMe = () => {
             />
             <Body1>
                 Hi, I'm Randy, I'm in my second year of computer science, minoring in mathematics at UBC's beautiful
-                Vancouver campus. I hope I can get into the Honours Software Engineering track for computer science at
-                UBC.
+                Vancouver campus.
 
                 <br/><br/>
 
@@ -27,8 +26,9 @@ const AboutMe = () => {
 
                 <br/><br/>
 
-                I return to school (or maybe another, different job) in May 2025.
-
+                This summer, starting May 2025, I will be working on Explotest together with <Link href={'https://wevie.dev/'}>Kevin Liu</Link>, an NSERC USRA summer research project originally made
+                by <Link href={'https://www.linkedin.com/in/zihao-huang-a24931206'}>Zihao Huang</Link> under the supervision of <Link href={'https://www.carolemieux.com/'}>Dr. Caroline Lemieux</Link>!
+                    
                 <br/><br/>
 
                 On the side, I also am a teaching assistant at UBC's Department of Computer Science for CPSC 210, a
